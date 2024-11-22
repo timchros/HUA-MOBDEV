@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">AppL4</string>
+    <string name="main_page_header">Main Page</string>
+    <string name="user_name_hint">User Name</string>
+    <string-array name="user_sex_values">
+        <item>Female</item>
+        <item>Male</item>
+        <item>Other</item>
+    </string-array>
+    <string name="button_1">Button 1</string>
+    <string name="button_2">Button 2</string>
+    <string name="button_3">Button 3</string>
+    <string name="number_1">1</string>
+    <string name="number_2">2</string>
+    <string name="second_activity_label">Second Activity</string>
+</resources>
