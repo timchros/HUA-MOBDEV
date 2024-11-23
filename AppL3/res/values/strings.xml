@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AppL3</string>
+    <string name="main_header">My Login Form</string>
+    <string name="username_label"><b>Username:</b></string>
+    <string name="username_hint"><b>username</b></string>
+    <string name="password_label"><b>Password:</b></string>
+    <string name="password_hint"><b>password</b></string>
+    <string name="my_button">Login</string>
+    <string name="button_name">my button</string>
+    <string name="output_area_msg">Output Messages will be placed in this Area</string>
+</resources>
