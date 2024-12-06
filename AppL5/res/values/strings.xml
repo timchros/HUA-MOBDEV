@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AppL5</string>
+    <string name="main_activity_title">Lecture 5</string>
+    <string name="main_activity_button_1">Show on Map</string>
+    <string name="main_activity_button_2">App Config</string>
+    <string name="main_activity_button_3">Read-Write File</string>
+    <string name="main_activity_edit_text_hint">Location or Lat/Lng</string>
+    <string name="second_activity_title">App Config</string>
+    <string name="second_activity_text">Default Location:</string>
+    <string name="second_activity_button">Save Config</string>
+</resources>
