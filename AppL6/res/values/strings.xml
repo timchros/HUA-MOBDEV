@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AppL6</string>
+    <string name="main_header">Lecture 6</string>
+    <string name="text_hint">Write something</string>
+    <string name="check_box_label">Adult ?</string>
+    <string name="radio_button_1_label">Male</string>
+    <string name="radio_button_2_label">Female</string>
+    <string name="button_1">Threads Button</string>
+    <string name="output_text">Output Area ..</string>
+    <string name="button_2">Files Button</string>
+    <string name="button_3">Database Button</string>
+</resources>
