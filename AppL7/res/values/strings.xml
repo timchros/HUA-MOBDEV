@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">AppL7</string>
+    <string name="header">Lecture 7</string>
+    <string name="output_area">Output Area</string>
+    <!-- Edit Text Hint  -->
+    <string name="string_value">String Value</string>
+    <string name="integer_value">Integer Value</string>
+    <!-- Database (DB) -->
+    <string name="button_1">DB using SQLite API</string>
+    <string name="button_2">DB using Room Framework</string>
+    <!-- Background Tasks (BGT) -->
+    <string name="button_3">BGT using Threads Pool</string>
+    <string name="button_4">BGT using Work Manager</string>
+</resources>
