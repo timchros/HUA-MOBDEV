@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AppL8</string>
+    <string name="header">Lecture 8</string>
+    <string name="button_1_name">Show List Elements</string>
+    <string name="button_2_name">Select Time</string>
+    <string name="button_3_name">Create and Test DB</string>
+    <string name="button_4_name">Test DB Content Provider</string>
+    <string name="dash">-</string>
+</resources>
