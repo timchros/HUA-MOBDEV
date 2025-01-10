@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AppL9</string>
+    <string name="button1">Button 1 - Started Service</string>
+    <string name="button2">Button 2 - Bound Service</string>
+    <string name="button3">Button 3 - CallLogs Provider</string>
+    <string name="header">Lecture 9</string>
+</resources>
