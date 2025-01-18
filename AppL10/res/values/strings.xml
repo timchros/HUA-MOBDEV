@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">AppL10</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="dialog_text">Dialog Text</string>
+    <string name="fragment_1">Fragment 1</string>
+    <string name="button_1">Button 1</string>
+    <string name="fragment_2">Fragment 2</string>
+    <string name="button_2">Button 2</string>
+    <string name="read_json">Read JSON</string>
+    <string name="write_json">Write JSON</string>
+    <string name="service">Service</string>
+    <string name="foreground_service">Foreground Service</string>
+    <string name="dialog_1">Dialog 1</string>
+    <string name="dialog_2">Dialog 2</string>
+    <string name="lecture_10">Lecture 10</string>
+</resources>
