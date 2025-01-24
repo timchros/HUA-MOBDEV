@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AppL11</string>
+    <string name="header">Lecture 11</string>
+    <string name="button_1">Read Web Doc - HTML</string>
+    <string name="button_2">Read Web Doc - JSON</string>
+    <string name="button_3">Test My Firebase DB</string>
+    <string name="button_4">Get Current Location</string>
+</resources>
